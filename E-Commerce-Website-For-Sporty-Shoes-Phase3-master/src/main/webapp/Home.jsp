@@ -12,7 +12,7 @@
 <body >
 
 <h1 align="center">E-Commerce Website for Sporty Shoes</h1><br><br>
-<h2 align="center"><span class="badge badge-success">Developed By @ SURAKUSALA</span></h2>
+<h2 align="center"><span class="badge badge-success">Developed By @ Bhanu Prasad</span></h2>
 <p align="center"><a href="adminLogin" style="font-size:25px;">Admin Login</a></p>
 </body>
 </html>
